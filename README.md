@@ -1,6 +1,8 @@
 # CrisisAware
 🏆 Best Project Award Winner | Smart City Platform merging Real-Time Emergency Response with AI-Driven Financial Fraud Detection. Built with React, TypeScript, Leaflet &amp; Python.
 
+#Live Link -- https://enchanting-axolotl-b21d04.netlify.app/
+
 # 🚨 CrisisAware - Smart City Emergency Response & Fraud Detection
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
